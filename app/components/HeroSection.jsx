@@ -15,7 +15,7 @@ const HeroSection = () => {
         </div>
         <div className="col-span-5">
         <Image
-      src="/assets/Bosquito.jpg"
+      src="Bosquito.jpg"
       alt="Foto de Bosco"
       width={200}
       height={100}
